@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/8jgssh"  />
+<img align="right" height="150" src=""  />
 
 ###
 
