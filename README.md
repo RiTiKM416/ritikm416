@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Ritik Meshram and I'm a Sussy Student, from NGP INDIA</h2>
+<h2 align="left">Hi 👋! My name is Ritik Meshram and I'm a Sussy Student</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikm416&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritikm416&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></div>
   <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritikm416&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
